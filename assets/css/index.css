@@ -1,0 +1,23 @@
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+}
+
+.container {
+	max-width: 1180px;
+	margin: 0 auto;
+}
+
+.form__title {
+	margin: 20px 0 20px 0;
+}
+
+.form__grid {
+	display: grid;
+	grid-template-columns: 105px 105px;
+	gap: 10px;
+}
+
+.button {
+	margin-top: 20px;
+	cursor: pointer;
+}
